@@ -34,7 +34,7 @@ h2 {
 h3 {
     margin: 0;
     font-size: 1.5rem;
-    color: #007BFF;
+    color: #444;
 }
 
 h4 {
@@ -59,7 +59,7 @@ footer {
 }
 
 a {
-    color: #007BFF;
+    color: #444;
     text-decoration: none;
 }
 
